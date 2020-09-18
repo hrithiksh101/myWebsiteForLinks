@@ -1,0 +1,28 @@
+
+body{
+    background-image: url('../img/pexels-henry-&-co-1939485.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: repeat;
+}
+.introduction{
+    margin-top: 20vh;
+    margin-bottom: 10vh;
+    
+}
+
+.projectLinks{
+    margin-bottom: 10vh;
+}
+
+.competitiveProgramming{
+    margin-bottom: 10vh;
+}
+
+.certifications{
+    margin-bottom: 10vh;
+}
+
+.margin-bottom1{
+    margin-bottom: 10vh;
+}
